@@ -1,0 +1,132 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="Nova_Title">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">27dp</item>
+        <item name="android:layout_marginBottom">8dp</item>
+        <item name="android:layout_marginEnd">8dp</item>
+        <item name="android:layout_marginStart">8dp</item>
+        <item name="android:layout_marginTop">8dp</item>
+        <item name="android:textSize">20sp</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="Excal_Title">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">27dp</item>
+        <item name="android:layout_marginBottom">8dp</item>
+        <item name="android:layout_marginEnd">8dp</item>
+        <item name="android:layout_marginStart">8dp</item>
+        <item name="android:layout_marginTop">8dp</item>
+        <item name="android:textSize">20sp</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="Nekros_Title">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">27dp</item>
+        <item name="android:layout_marginBottom">8dp</item>
+        <item name="android:layout_marginEnd">8dp</item>
+        <item name="android:layout_marginStart">8dp</item>
+        <item name="android:layout_marginTop">8dp</item>
+        <item name="android:textSize">20sp</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="Nova_Desc">
+        <item name="android:layout_width">250dp</item>
+        <item name="android:layout_height">70dp</item>
+        <item name="android:layout_marginBottom">8dp</item>
+        <item name="android:layout_marginEnd">8dp</item>
+        <item name="android:layout_marginStart">8dp</item>
+        <item name="android:layout_marginTop">8dp</item>
+    </style>
+
+    <style name="Nekros_Desc">
+        <item name="android:layout_width">250dp</item>
+        <item name="android:layout_height">70dp</item>
+        <item name="android:layout_marginBottom">8dp</item>
+        <item name="android:layout_marginEnd">8dp</item>
+        <item name="android:layout_marginStart">8dp</item>
+        <item name="android:layout_marginTop">8dp</item>
+    </style>
+
+    <style name="Excal_Desc">
+        <item name="android:layout_width">250dp</item>
+        <item name="android:layout_height">70dp</item>
+        <item name="android:layout_marginBottom">8dp</item>
+        <item name="android:layout_marginEnd">8dp</item>
+        <item name="android:layout_marginStart">8dp</item>
+        <item name="android:layout_marginTop">8dp</item>
+    </style>
+
+    <style name="Nova_Pic">
+        <item name="android:layout_width">85dp</item>
+        <item name="android:layout_height">85dp</item>
+        <item name="android:layout_marginBottom">8dp</item>
+        <item name="android:layout_marginEnd">8dp</item>
+        <item name="android:layout_marginStart">8dp</item>
+        <item name="android:layout_marginTop">8dp</item>
+    </style>
+
+    <style name="Excal_Pic">
+        <item name="android:layout_width">85dp</item>
+        <item name="android:layout_height">85dp</item>
+        <item name="android:layout_marginBottom">8dp</item>
+        <item name="android:layout_marginEnd">8dp</item>
+        <item name="android:layout_marginStart">8dp</item>
+        <item name="android:layout_marginTop">8dp</item>
+    </style>
+
+    <style name="Nekros_Pic">
+        <item name="android:layout_width">85dp</item>
+        <item name="android:layout_height">85dp</item>
+        <item name="android:layout_marginBottom">8dp</item>
+        <item name="android:layout_marginEnd">8dp</item>
+        <item name="android:layout_marginStart">8dp</item>
+        <item name="android:layout_marginTop">8dp</item>
+    </style>
+
+    <style name="Nova_Desc2">
+
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginBottom">8dp</item>
+        <item name="android:layout_marginEnd">8dp</item>
+        <item name="android:layout_marginStart">8dp</item>
+        <item name="android:layout_marginTop">8dp</item>
+        <item name="android:textSize">18sp</item>
+    </style>
+
+
+    <style name="Samurai_Desc2">
+
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginBottom">8dp</item>
+        <item name="android:layout_marginEnd">8dp</item>
+        <item name="android:layout_marginStart">8dp</item>
+        <item name="android:layout_marginTop">8dp</item>
+        <item name="android:textSize">18sp</item>
+    </style>
+
+
+    <style name="Monster_Desc2">
+
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginBottom">8dp</item>
+        <item name="android:layout_marginEnd">8dp</item>
+        <item name="android:layout_marginStart">8dp</item>
+        <item name="android:layout_marginTop">8dp</item>
+        <item name="android:textSize">18sp</item>
+    </style>
+</resources>
